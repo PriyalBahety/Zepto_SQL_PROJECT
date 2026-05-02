@@ -53,4 +53,4 @@ A PostgreSQL-based data analysis project using Zepto grocery inventory data. Thi
 3. Import CSV file using COPY command
 4. Run SQL queries for analysis
 
-Pri
+
